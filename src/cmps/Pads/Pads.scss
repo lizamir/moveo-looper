@@ -1,0 +1,36 @@
+.pads {
+  margin-block-start: 25px;
+  .container {
+    display: grid;
+    grid-template-columns: 7em 7em 7em;
+    grid-gap: 0.5em;
+    grid-template-rows: 6em 6em 6em;
+  }
+  .play {
+    font-size: 4rem;
+    margin: 42px;
+
+    &.on {
+      color: #fdccdaf6;
+    }
+
+    &.off {
+      color: rgba(0, 0, 0, 0.23);
+    }
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .pads {
+    .container {
+      display: grid;
+      grid-template-columns: 5em 5em 5em;
+      grid-gap: 0.5em;
+      grid-template-rows: 4em 4em 4em;
+    }
+    .play {
+      font-size: 2rem;
+      margin-block-start: 42px 0 0 0;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+.sample {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.7s;
+  border-radius: 10px;
+  opacity: 0.8;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+
+  &:hover {
+    opacity: 1;
+    box-shadow: 0 10px 15px rgba(141, 141, 141, 0.16),
+      0 10px 15px rgba(0, 0, 0, 0.23);
+  }
+}
+
+.play-on {
+  background-color: #f9bacb;
+  color: #0b5052ba;
+}
+
+.play-off {
+  background-color: #0b5052ba;
+  color: #f9bacb;
+}
+
+.icon-music {
+  font-size: 50px;
+}
+
+@media only screen and (max-width: 800px) {
+  .sample {
+    width: 60px;
+    height: 60px;
+  }
+
+  .icon-music {
+    font-size: 30px;
+  }
+}
