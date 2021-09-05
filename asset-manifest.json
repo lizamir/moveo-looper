@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/moveo-looper/static/css/main.7d50100f.chunk.css",
+    "main.js": "/moveo-looper/static/js/main.a7bd35e2.chunk.js",
+    "main.js.map": "/moveo-looper/static/js/main.a7bd35e2.chunk.js.map",
+    "runtime-main.js": "/moveo-looper/static/js/runtime-main.c69f52aa.js",
+    "runtime-main.js.map": "/moveo-looper/static/js/runtime-main.c69f52aa.js.map",
+    "static/js/2.348b6e98.chunk.js": "/moveo-looper/static/js/2.348b6e98.chunk.js",
+    "static/js/2.348b6e98.chunk.js.map": "/moveo-looper/static/js/2.348b6e98.chunk.js.map",
+    "static/js/3.f4ee1ec5.chunk.js": "/moveo-looper/static/js/3.f4ee1ec5.chunk.js",
+    "static/js/3.f4ee1ec5.chunk.js.map": "/moveo-looper/static/js/3.f4ee1ec5.chunk.js.map",
+    "index.html": "/moveo-looper/index.html",
+    "static/css/main.7d50100f.chunk.css.map": "/moveo-looper/static/css/main.7d50100f.chunk.css.map",
+    "static/js/2.348b6e98.chunk.js.LICENSE.txt": "/moveo-looper/static/js/2.348b6e98.chunk.js.LICENSE.txt",
+    "static/media/Bass.52c24c81.mp3": "/moveo-looper/static/media/Bass.52c24c81.mp3",
+    "static/media/App.scss": "/moveo-looper/static/media/Segoe-UI.45472284.ttf",
+    "static/media/GrooveTanggu.3e1411b4.mp3": "/moveo-looper/static/media/GrooveTanggu.3e1411b4.mp3",
+    "static/media/MazePolitics.2d08c654.mp3": "/moveo-looper/static/media/MazePolitics.2d08c654.mp3",
+    "static/media/PAS3GROOVE1.f77c6da4.mp3": "/moveo-looper/static/media/PAS3GROOVE1.f77c6da4.mp3",
+    "static/media/SilentStarOrganSynth.f2d668af.mp3": "/moveo-looper/static/media/SilentStarOrganSynth.f2d668af.mp3",
+    "static/media/StompySlosh.27bdc145.mp3": "/moveo-looper/static/media/StompySlosh.27bdc145.mp3",
+    "static/media/StutterBreakbeats.37c82282.mp3": "/moveo-looper/static/media/StutterBreakbeats.37c82282.mp3",
+    "static/media/Home.scss": "/moveo-looper/static/media/bgc.e342ef5c.jpg",
+    "static/media/electricGuitar.230fcab8.mp3": "/moveo-looper/static/media/electricGuitar.230fcab8.mp3",
+    "static/media/future_funk_beats.5eb417fc.mp3": "/moveo-looper/static/media/future_funk_beats.5eb417fc.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69f52aa.js",
+    "static/js/2.348b6e98.chunk.js",
+    "static/css/main.7d50100f.chunk.css",
+    "static/js/main.a7bd35e2.chunk.js"
+  ]
+}
